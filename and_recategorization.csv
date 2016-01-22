@@ -1,6 +1,6 @@
 sort_order,zoom_list,title,matchstring
 1,True,Sprint 74,%Mobile-App-Android-Sprint-74-%
-2,True,Sync Saved Pages,"%s saved pages across devices using the Gather API.%"
+2,True,Sync Saved Pages,"%Synchronize the user's saved pages across devices.%"
 3,True,Gather Collections,"%Implement basic Gather collections, visible only to the current user.%"
 4,True,Analytics for Preloads and WP0,"%Better analytics for preloads and Wikipedia Zero support.%"
 5,False,Other,PhlogOther
